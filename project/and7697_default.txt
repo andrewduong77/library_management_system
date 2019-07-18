@@ -1,0 +1,11 @@
+Book;380182302;13212JD29;City of Ember;Science Fiction;Jeanne DuPrau;2003
+Movie;801474031;DIS188023;The Lord of the Rings;Fantasy;2001;New Line Cinema;Peter Jackson;Elijah Woods:Sean Astin
+Video_Game;382781023;S82KJD82J;Halo 3;Shooter;2007;Bungie
+Music_Album;674312472;WE82I3KJW;Broadcast;Soft Rock;1986;Cutting Crew;I've Been in Love Before:(I Just) Died in Your Arms
+Television_Show_Season;380147380;IE08Q3208;The Simpsons;Comedy;2006;Matt Groening;Dan Castellaneta:Julie Kavner;Richard Gibbs:Arthur B. Rubinstein;104
+Customer;Andrew Duong;1000;2142239388;andrewduong51@yahoo.com;-20.00
+Customer;Shawn Gieser;1001;2147483647;shawngieser11@hotmail.com;50.00
+Librarian;Charlie Douglas;1002
+Librarian;Nicole Green;1003
+Bundle;Andrew;801474031:382781023:674312472
+Bundle;Gieser;380182302:382781023:380147380

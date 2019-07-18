@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp",
+			"typeinfo": "cpp",
+			"istream": "cpp",
+			"iostream": "cpp",
+			"fstream": "cpp",
+			"array": "cpp",
+			"initializer_list": "cpp",
+			"utility": "cpp",
+			"valarray": "cpp",
+			"sstream": "cpp",
+			"ostream": "cpp",
+			"*.tcc": "cpp",
+			"system_error": "cpp",
+			"functional": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp"
+		}
+	}
+}

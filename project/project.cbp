@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="and7697_Book.cpp" />
+		<Unit filename="and7697_Book.h" />
+		<Unit filename="and7697_Bundle.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Bundle.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Controller.cpp" />
+		<Unit filename="and7697_Controller.h" />
+		<Unit filename="and7697_Customer.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Customer.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Date.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Date.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Dialog.cpp" />
+		<Unit filename="and7697_Dialog.h" />
+		<Unit filename="and7697_Librarian.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Librarian.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Library.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Library.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Media.cpp" />
+		<Unit filename="and7697_Media.h" />
+		<Unit filename="and7697_Movie.cpp" />
+		<Unit filename="and7697_Movie.h" />
+		<Unit filename="and7697_Music_Album.cpp" />
+		<Unit filename="and7697_Music_Album.h" />
+		<Unit filename="and7697_Television_Show_Season.cpp" />
+		<Unit filename="and7697_Television_Show_Season.h" />
+		<Unit filename="and7697_Transaction.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Transaction.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="and7697_Video_Game.cpp" />
+		<Unit filename="and7697_Video_Game.h" />
+		<Unit filename="and7697_View.cpp" />
+		<Unit filename="and7697_View.h" />
+		<Unit filename="and7697_main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
